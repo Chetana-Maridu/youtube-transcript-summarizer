@@ -1,1 +1,1 @@
-# youtube-transcript-summarizer
+This Python project is designed to summarize transcripts from YouTube videos using the YouTube API and natural language processing techniques. It fetches video transcripts, processes the text data, and generates concise summaries, making it easier to grasp the main points of lengthy videos.
